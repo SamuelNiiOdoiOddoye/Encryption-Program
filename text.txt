@@ -1,0 +1,6 @@
+this is a python program for an encrytption program that accepts the statements
+it then converts everything into capital letters and then uses the ascii convention to translate everything into numbers
+the ascii characters are then assigned into an array
+it sould then add a random operation to the  ascii chracters 
+it should then saved the operation it did under a variable named operation
+and the random number in a variable named number
